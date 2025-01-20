@@ -2,4 +2,4 @@ HI,
 I've used Hive database for my taskly app with FutureBuilder, setstate, onTap, onLongPress widgets
 the UI ss is attached below and for the code please click on the folder taskly_app
 
-![Image](https://github.com/user-attachments/assets/a520b35c-1647-44a0-b522-cd6ae2fefaeb)
+![Image](https://github.com/user-attachments/assets/6e1c7fc9-936c-4fac-a699-5d1e6c83bdf9)
